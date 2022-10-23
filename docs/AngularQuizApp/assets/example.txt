@@ -1,0 +1,55 @@
+//    ,
+//     {
+//         "questionText": "Which keyword allows us to share information between files in TypeScript?",
+//         "options": [{
+//                 "text": "import"
+//             },
+//             {
+//                 "text": "export",
+//                 "correct": true
+//             },
+//             {
+//                 "text": "async"
+//             },
+//             {
+//                 "text": "constructor"
+//             }
+//         ],
+//         "explanation": "the export keyword allows for the information to be transmitted between files"
+//     },
+//     {
+//         "questionText": "Which is an array method to generate a new array based on a condition?",
+//         "options": [{
+//                 "text": "filter",
+//                 "correct": true
+//             },
+//             {
+//                 "text": "map"
+//             },
+//             {
+//                 "text": "async"
+//             },
+//             {
+//                 "text": "enum"
+//             }
+//         ],
+//         "explanation": "filter is a method used to conditionally create a new array"
+//     },
+//     {
+//         "questionText": "How is a property accessible within a class?",
+//         "options": [{
+//                 "text": "Using this.propertyName",
+//                 "correct": true
+//             },
+//             {
+//                 "text": "Accessors"
+//             },
+//             {
+//                 "text": "Destructuring"
+//             },
+//             {
+//                 "text": "Arrow function"
+//             }
+//         ],
+//         "explanation": "this.propertyName is the way to access a specific property within a class"
+    // }

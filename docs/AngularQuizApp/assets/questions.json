@@ -1,0 +1,113 @@
+{
+    "questions": [{
+            "questionText": "which Indian state is the home to the Taj Mahal?",
+            "options": [{
+                    "text": "UP",
+                    "correct": true
+                },
+                {
+                    "text": "Bihar"
+                },
+                {
+                    "text": "Madhya pradesh"
+                },
+                {
+                    "text": "Delhi"
+                }
+            ],
+            "explanation": "Taj mahal is in Agra"
+        },
+        {
+            "questionText": "Which is India’s first digital village?",
+            "options": [{
+                    "text": "Khonoma"
+                },
+                {
+                    "text": "Chizami"
+                },
+                {
+                    "text": "Akodara"
+                },
+                {
+                    "text": "Odanthurai",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "How many times national emergency has been decalared in India?",
+            "options": [{
+                    "text": "One Time"
+                },
+                {
+                    "text": "Two Time",
+                    "correct": true
+                },
+                {
+                    "text": "Three Time"
+                },
+                {
+                    "text": "Four Times"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which river of India has an Inland drainage?",
+            "options": [{
+                    "text": "Tapi"
+                },
+                {
+                    "text": "Ganga",
+                    "correct": true
+                },
+                {
+                    "text": "Godavari"
+                },
+                {
+                    "text": "Luni"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which is the longest river in the world?",
+            "options": [{
+                    "text": "Yantze",
+                    "correct": true
+                },
+                {
+                    "text": "Nile"
+                },
+                {
+                    "text": "Amazon"
+                },
+                {
+                    "text": "Volga"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": ";;;………. is the first state of India to receive rainfall.",
+            "options": [{
+                    "text": "Goa"
+                },
+                {
+                    "text": "Maharastra"
+                },
+                {
+                    "text": "Gujarat"
+                },
+                {
+                    "text": "Kerala",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+       }  
+    ]
+}
+
+
