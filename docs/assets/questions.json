@@ -1,113 +1,2170 @@
 {
-    "questions": [{
-            "questionText": "which Indian state is the home to the Taj Mahal?",
-            "options": [{
-                    "text": "UP",
+    "questions": [
+        {
+            "questionText": "Kunwar Singh was a leader of the Revolt of 1857 in which of the following States?",
+            "options": [
+                {
+                    "text": "Uttar Pradesh",
                     "correct": true
                 },
                 {
                     "text": "Bihar"
                 },
                 {
-                    "text": "Madhya pradesh"
+                    "text": "Madhya Pradesh"
+                },
+                {
+                    "text": "Bengal"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following was crowned the 2022 Italian Cup champions in May 2022?",
+            "options": [
+                {
+                    "text": "Juventus"
+                },
+                {
+                    "text": "Venezia"
+                },
+                {
+                    "text": "Atlanta"
+                },
+                {
+                    "text": "Inter Milan",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "The Indian Super League (ISL) is a _______ championship.",
+            "options": [
+                {
+                    "text": "cricket"
+                },
+                {
+                    "text": "kabaddi"
+                },
+                {
+                    "text": "kho-kho"
+                },
+                {
+                    "text": "football",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which Sikh guru established the Khalsa Panth?",
+            "options": [
+                {
+                    "text": "Shri Guru Nanak ji"
+                },
+                {
+                    "text": "Shri Guru Har Gobind ji"
+                },
+                {
+                    "text": "Shri Guru Tegh Bahadur ji"
+                },
+                {
+                    "text": "Shri Guru Gobind Singh ji",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "In which year did the voting age for the Lok Sabha and the State Legislative Assembly elections change from 21 to 18 years?",
+            "options": [
+                {
+                    "text": "1988",
+                    "correct": true
+                },
+                {
+                    "text": "1998"
+                },
+                {
+                    "text": "2001"
+                },
+                {
+                    "text": "1991"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Name the place in India where one can find the Zero Mile Stone consisting of four horses and a pillar made up of sandstone.",
+            "options": [
+                {
+                    "text": "Bhopal"
+                },
+                {
+                    "text": "Itarsi"
+                },
+                {
+                    "text": "Nagpur",
+                    "correct": true
+                },
+                {
+                    "text": "Surat"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "The first woman to swim the English Channel was __________.",
+            "options": [
+                {
+                    "text": "an Indian"
+                },
+                {
+                    "text": "a French"
+                },
+                {
+                    "text": "a British"
+                },
+                {
+                    "text": "an American",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which of the following companies has announced the first \"demand-driven'' communication satellite (GSAT-24) mission?",
+            "options": [
+                {
+                    "text": "New Space India limited",
+                    "correct": true
+                },
+                {
+                    "text": "Antrix Corporation Ltd"
+                },
+                {
+                    "text": "SpaceX"
+                },
+                {
+                    "text": "Agnikul Cosmos"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following states has launched the 'Swechha' program to tackle the stigma attached to menstruation, prioritize female personal hygiene?",
+            "options": [
+                {
+                    "text": "Haryana"
+                },
+                {
+                    "text": "Rajasthan"
+                },
+                {
+                    "text": "Tripura"
+                },
+                {
+                    "text": "Andhra Pradesh",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which of the following states has developed India's First Smartphone-Based E-Voting Solution?",
+            "options": [
+                {
+                    "text": "Maharashtra"
+                },
+                {
+                    "text": "Kerala"
+                },
+                {
+                    "text": "Karnataka"
+                },
+                {
+                    "text": "Telangana",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Chaukhandi Stupa is a Buddhist monument located in which Indian state?",
+            "options": [
+                {
+                    "text": "Punjab"
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "correct": true
+                },
+                {
+                    "text": "Sikkim"
+                },
+                {
+                    "text": "West Bengal"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Who among the following was awarded the 56th Jnanpith Award ?",
+            "options": [
+                {
+                    "text": "Amitav Ghosh"
+                },
+                {
+                    "text": "Nilmani phookan",
+                    "correct": true
+                },
+                {
+                    "text": "Chandrashekhara Kambara"
+                },
+                {
+                    "text": "Akkitham Achuthan Namboothiri"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "According to the census 2011, which state has the highest population density?",
+            "options": [
+                {
+                    "text": "Bihar",
+                    "correct": true
+                },
+                {
+                    "text": "Uttar Pradesh"
+                },
+                {
+                    "text": "Maharashtra"
+                },
+                {
+                    "text": "Karnataka"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "\u2018Simlipal Biosphere Niche\u2019 is situated in :",
+            "options": [
+                {
+                    "text": "Punjab"
                 },
                 {
                     "text": "Delhi"
-                }
-            ],
-            "explanation": "Taj mahal is in Agra"
-        },
-        {
-            "questionText": "Which is India’s first digital village?",
-            "options": [{
-                    "text": "Khonoma"
                 },
                 {
-                    "text": "Chizami"
+                    "text": "West Bengal"
                 },
                 {
-                    "text": "Akodara"
-                },
-                {
-                    "text": "Odanthurai",
+                    "text": "Odisha",
                     "correct": true
                 }
             ],
-            "explanation": ""
+            "explanation": 3
         },
         {
-            "questionText": "How many times national emergency has been decalared in India?",
-            "options": [{
-                    "text": "One Time"
-                },
+            "questionText": "If the actual unemployment rate is below the natural rate of unemployment, it would be expected that :",
+            "options": [
                 {
-                    "text": "Two Time",
+                    "text": "The rate of inflation would increase",
                     "correct": true
                 },
                 {
-                    "text": "Three Time"
+                    "text": "Wages would fall"
                 },
                 {
-                    "text": "Four Times"
+                    "text": "Natural rate of unemployment will fall"
+                },
+                {
+                    "text": "Demands for goods and services will fall"
                 }
             ],
-            "explanation": ""
+            "explanation": 0
         },
         {
-            "questionText": "Which river of India has an Inland drainage?",
-            "options": [{
-                    "text": "Tapi"
-                },
+            "questionText": "Multidimensional poverty index (MPI) is released by",
+            "options": [
                 {
-                    "text": "Ganga",
+                    "text": "UNDP",
                     "correct": true
                 },
                 {
-                    "text": "Godavari"
+                    "text": "UNEP"
                 },
                 {
-                    "text": "Luni"
+                    "text": "IBRD"
+                },
+                {
+                    "text": "World bank"
                 }
             ],
-            "explanation": ""
+            "explanation": 0
         },
         {
-            "questionText": "Which is the longest river in the world?",
-            "options": [{
-                    "text": "Yantze",
+            "questionText": "Who was the founder of Sayyid Dynasty?",
+            "options": [
+                {
+                    "text": "Sikandar Lodhi"
+                },
+                {
+                    "text": "Jalal-ud-din Khilji"
+                },
+                {
+                    "text": "Nasir-ud-din Mahmud"
+                },
+                {
+                    "text": "Khizr Khan",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "The Partition of Bengal was cancelled in which year?",
+            "options": [
+                {
+                    "text": "1906"
+                },
+                {
+                    "text": "1909"
+                },
+                {
+                    "text": "1911",
                     "correct": true
                 },
                 {
-                    "text": "Nile"
-                },
-                {
-                    "text": "Amazon"
-                },
-                {
-                    "text": "Volga"
+                    "text": "1913"
                 }
             ],
-            "explanation": ""
+            "explanation": 2
         },
         {
-            "questionText": ";;;………. is the first state of India to receive rainfall.",
-            "options": [{
+            "questionText": "The oxidation reaction which produces heat and light is",
+            "options": [
+                {
+                    "text": "endothermic reaction"
+                },
+                {
+                    "text": "photochemical reaction"
+                },
+                {
+                    "text": "combustion reaction",
+                    "correct": true
+                },
+                {
+                    "text": "exothermic reaction"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Land breeze, sea breeze and loo are____.",
+            "options": [
+                {
+                    "text": "seasonal winds"
+                },
+                {
+                    "text": "planetary winds"
+                },
+                {
+                    "text": "local winds",
+                    "correct": true
+                },
+                {
+                    "text": "permanent winds"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Which is the place of highest rainfall in India?",
+            "options": [
+                {
+                    "text": "Cherapunji"
+                },
+                {
+                    "text": "Gangtok"
+                },
+                {
+                    "text": "Shillong"
+                },
+                {
+                    "text": "Mawsynram",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which is the shortest day in Southern Hemisphere?",
+            "options": [
+                {
+                    "text": "22nd December"
+                },
+                {
+                    "text": "21st June",
+                    "correct": true
+                },
+                {
+                    "text": "21st March"
+                },
+                {
+                    "text": "23rd September"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "The periodic development of a warm ocean current along the Peruvian coast is known as.",
+            "options": [
+                {
+                    "text": "La Nina"
+                },
+                {
+                    "text": "El Nino",
+                    "correct": true
+                },
+                {
+                    "text": "Cloud burst"
+                },
+                {
+                    "text": "Cyclone"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "In which layer of the atmosphere does ozone act as a UV radiation shield?",
+            "options": [
+                {
+                    "text": "Troposphere"
+                },
+                {
+                    "text": "Thermosphere"
+                },
+                {
+                    "text": "Stratosphere",
+                    "correct": true
+                },
+                {
+                    "text": "Mesosphere"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "A parcel of air always moves from",
+            "options": [
+                {
+                    "text": "High pressure to low pressure",
+                    "correct": true
+                },
+                {
+                    "text": "Low pressure to high pressure"
+                },
+                {
+                    "text": "Low pressure to low pressure"
+                },
+                {
+                    "text": "High pressure to high pressure"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Select the incorrectly matched pair:",
+            "options": [
+                {
+                    "text": "Tropical - Rainforest"
+                },
+                {
+                    "text": "Temperate - Boreal"
+                },
+                {
+                    "text": "Mediterranean - Taiga",
+                    "correct": true
+                },
+                {
+                    "text": "Polar - Tundra"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Coriolis force is zero at",
+            "options": [
+                {
+                    "text": "Tropic of Capricorn"
+                },
+                {
+                    "text": "Tropic of Cancer"
+                },
+                {
+                    "text": "Equator",
+                    "correct": true
+                },
+                {
+                    "text": "Arctic Circle"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "\"The hills are therefore cooler during summers.\" Which of the following is the major control of the climate in such places?",
+            "options": [
+                {
+                    "text": "Latitude"
+                },
+                {
+                    "text": "Continentality"
+                },
+                {
+                    "text": "Ocean currents"
+                },
+                {
+                    "text": "Altitude",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which of the following element of weather indicates the amount of water vapour present in the atmosphere.",
+            "options": [
+                {
+                    "text": "Temperature"
+                },
+                {
+                    "text": "Humidity",
+                    "correct": true
+                },
+                {
+                    "text": "Precipitation"
+                },
+                {
+                    "text": "Relative Humidity"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Longitudes divides earth into how many time zones?",
+            "options": [
+                {
+                    "text": "3 time zones"
+                },
+                {
+                    "text": "15 time zones"
+                },
+                {
+                    "text": "24 time zones",
+                    "correct": true
+                },
+                {
+                    "text": "360 time zones"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Numerous tiny body between the jovian and terrestrial planets is known as ______.",
+            "options": [
+                {
+                    "text": "satellites"
+                },
+                {
+                    "text": "asteroids",
+                    "correct": true
+                },
+                {
+                    "text": "stars"
+                },
+                {
+                    "text": "constellation"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Which of the following was NOT a part of Gondwana Land?",
+            "options": [
+                {
+                    "text": "Europe",
+                    "correct": true
+                },
+                {
+                    "text": "Australia"
+                },
+                {
+                    "text": "India"
+                },
+                {
+                    "text": "South Africa"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which planet has a near similarity of size and mass like that of the earth?",
+            "options": [
+                {
+                    "text": "Mercury"
+                },
+                {
+                    "text": "Mars"
+                },
+                {
+                    "text": "Venus",
+                    "correct": true
+                },
+                {
+                    "text": "Jupiter"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "When the Earth is closest to the sun, it is known as?",
+            "options": [
+                {
+                    "text": "Perihelion",
+                    "correct": true
+                },
+                {
+                    "text": "Aphelion"
+                },
+                {
+                    "text": "Perigee"
+                },
+                {
+                    "text": "Apogee"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who originally built the Meenakshi Temple at Madurai?",
+            "options": [
+                {
+                    "text": "Pulakeshin I"
+                },
+                {
+                    "text": "Karikala Chola"
+                },
+                {
+                    "text": "Kulashekara Pandyan",
+                    "correct": true
+                },
+                {
+                    "text": "Mahendravarman I"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who was the last ruler of Pandya Dynasty?",
+            "options": [
+                {
+                    "text": "Kochadaiyan Ranadhiran"
+                },
+                {
+                    "text": "Parantaka Chola-I"
+                },
+                {
+                    "text": "Jayantavarman"
+                },
+                {
+                    "text": "Maravarman Rajasimha II",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which of the following was not one of the ruling dynasties of South India in the Sangam Age?",
+            "options": [
+                {
+                    "text": "Chola"
+                },
+                {
+                    "text": "Chera"
+                },
+                {
+                    "text": "Pandya"
+                },
+                {
+                    "text": "Pallava",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "What was the Royal emblem of the Chera Dynasty?",
+            "options": [
+                {
+                    "text": "Golden Eagle"
+                },
+                {
+                    "text": "Lion"
+                },
+                {
+                    "text": "Bow and arrow",
+                    "correct": true
+                },
+                {
+                    "text": "Tiger"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "The group of monuments at Mahabalipuram in Tamil Nadu was built by the",
+            "options": [
+                {
+                    "text": "Cholas"
+                },
+                {
+                    "text": "Pandyas"
+                },
+                {
+                    "text": "Chalukyas"
+                },
+                {
+                    "text": "Pallavas",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "The Pandyas ruled parts of Southern India from ________ BCE.",
+            "options": [
+                {
+                    "text": "4th",
+                    "correct": true
+                },
+                {
+                    "text": "6th"
+                },
+                {
+                    "text": "2nd"
+                },
+                {
+                    "text": "16th"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "The Chola dynasty was founded by which of the following rulers?",
+            "options": [
+                {
+                    "text": "Rajaraja Chola"
+                },
+                {
+                    "text": "Aditya I"
+                },
+                {
+                    "text": "Vijayalaya Chola",
+                    "correct": true
+                },
+                {
+                    "text": "Rajendra Chola I"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who was the first ruler in the Chola-Chalukya line?",
+            "options": [
+                {
+                    "text": "Raja Raja II"
+                },
+                {
+                    "text": "Vikrama chola"
+                },
+                {
+                    "text": "Kulothunga I",
+                    "correct": true
+                },
+                {
+                    "text": "Adhi Rajendran"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Which was the oldest and important branch of Pratiharas in Rajasthan?",
+            "options": [
+                {
+                    "text": "Mandore",
+                    "correct": true
+                },
+                {
+                    "text": "Ujjain"
+                },
+                {
+                    "text": "Jalore"
+                },
+                {
+                    "text": "Bundi"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "The inscription which proves the influence of Bhagwat cult in ancient Rajasthan is",
+            "options": [
+                {
+                    "text": "Ghatiyala Inscription"
+                },
+                {
+                    "text": "Besnagar Inscription of Heliodorous"
+                },
+                {
+                    "text": "Buchkala Inscription"
+                },
+                {
+                    "text": "Ghosundi Inscription",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Who among the following was greatest ruler of Pratihara Dynasty?",
+            "options": [
+                {
+                    "text": "Ramabhadra"
+                },
+                {
+                    "text": "Nagabhata"
+                },
+                {
+                    "text": "Mihir Bhoja",
+                    "correct": true
+                },
+                {
+                    "text": "Samantasena"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Evidence of water tax is provided by the inscriptions of:",
+            "options": [
+                {
+                    "text": "Palas"
+                },
+                {
+                    "text": "Senas"
+                },
+                {
+                    "text": "Pratiharas"
+                },
+                {
+                    "text": "Gahadavalas",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Pratihara dynasty (Mandor and Marwar Line) in the 6th Century was founded by which ruler?",
+            "options": [
+                {
+                    "text": "Mihir Bhoj"
+                },
+                {
+                    "text": "Vatsaraja"
+                },
+                {
+                    "text": "Ramabhadra"
+                },
+                {
+                    "text": "Harichandra",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Dantidurga, who set up his capital at Malkhed was a ______ ruler.",
+            "options": [
+                {
+                    "text": "Pala"
+                },
+                {
+                    "text": "Rashtrakuta",
+                    "correct": true
+                },
+                {
+                    "text": "Satavahana"
+                },
+                {
+                    "text": "Pratihara"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Who was the first king of the Pala Dynasty?",
+            "options": [
+                {
+                    "text": "Gopala",
+                    "correct": true
+                },
+                {
+                    "text": "Nandlal"
+                },
+                {
+                    "text": "Dharmapala"
+                },
+                {
+                    "text": "Devapal"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Padma Vibhushan awardee, Pandit Shivkumar Sharma has passed away in May 2022. He was renowned ___________ player.",
+            "options": [
+                {
+                    "text": "Santoor",
+                    "correct": true
+                },
+                {
+                    "text": "Sarod"
+                },
+                {
+                    "text": "Mohan Veena"
+                },
+                {
+                    "text": "Sitar"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who has become the first Indian woman to scale Mt. Everest without supplementary oxygen?",
+            "options": [
+                {
+                    "text": "Kami Rita Sherpa"
+                },
+                {
+                    "text": "Shephali Singh"
+                },
+                {
+                    "text": "Priyanka Mohite"
+                },
+                {
+                    "text": "Piyali Basak",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which team has won the 15th edition of the Indian Premier League (IPL) on 29 May 2022?",
+            "options": [
+                {
+                    "text": "Rajasthan Royals"
+                },
+                {
+                    "text": "Mumbai Indians"
+                },
+                {
+                    "text": "Surnisers Hyerabad"
+                },
+                {
+                    "text": "Gujarat Titans",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which country has won its maiden Thomas Cup title on 15 May 2022?",
+            "options": [
+                {
+                    "text": "Malaysia"
+                },
+                {
+                    "text": "India",
+                    "correct": true
+                },
+                {
+                    "text": "Japan"
+                },
+                {
+                    "text": "Singapore"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Who has been appointed as Private Secretary (PS) to Prime Minister Narendra Modi in May 2022?",
+            "options": [
+                {
+                    "text": "Umang Narula"
+                },
+                {
+                    "text": "Dineshwar Sharma"
+                },
+                {
+                    "text": "Vijay Kumar Dev"
+                },
+                {
+                    "text": "Vivek Kumar",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which startup company has become the 100th unicorn startup of India in May 2022?",
+            "options": [
+                {
+                    "text": "CoinSwitch"
+                },
+                {
+                    "text": "Rebel Foods"
+                },
+                {
+                    "text": "DealShare"
+                },
+                {
+                    "text": "Open Financial Technologies Pvt Ltd",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "What is the rank of India in the World Press Freedom Index 2022?",
+            "options": [
+                {
+                    "text": "148th"
+                },
+                {
+                    "text": "150th",
+                    "correct": true
+                },
+                {
+                    "text": "152nd"
+                },
+                {
+                    "text": "154th"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Who has became the world's second-longest reigning monarch in history, after France's Louis XIV?",
+            "options": [
+                {
+                    "text": "Henry V"
+                },
+                {
+                    "text": "James VI"
+                },
+                {
+                    "text": "Elizabeth II",
+                    "correct": true
+                },
+                {
+                    "text": "Alexander III"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "ISRO successfully launched communication satellite GSAT-24 from Kourou in ________ in June 2022.",
+            "options": [
+                {
+                    "text": "Suriname"
+                },
+                {
+                    "text": "Paraguay"
+                },
+                {
+                    "text": "Reunion Island"
+                },
+                {
+                    "text": "French Guiana",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "India has decided to participate in the world\u2019s biggest maritime exercise ____________, hosted by the US.",
+            "options": [
+                {
+                    "text": "COBRA-GOLD"
+                },
+                {
+                    "text": "Samvedna"
+                },
+                {
+                    "text": "CORMORANT STRIKE"
+                },
+                {
+                    "text": "'Rim of the Pacific' or RIMPAC",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "In which state, Indian government is going to rehabilitate cheetahs from South Africa in August 2022?",
+            "options": [
+                {
+                    "text": "Gujrat"
+                },
+                {
+                    "text": "Madhya Pradesh",
+                    "correct": true
+                },
+                {
+                    "text": "Karnataka"
+                },
+                {
+                    "text": "Goa"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "In which state, The Khelo India Youth Games 2022 was conducted?",
+            "options": [
+                {
+                    "text": "Haryana"
+                },
+                {
+                    "text": "Maharashtra"
+                },
+                {
+                    "text": "Madhya pradesh",
+                    "correct": true
+                },
+                {
+                    "text": "Karnataka"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "In Nagaland, a \u2018Veer Smriti\u2019 memorial has been set up, which is dedicated to the 357 Army and Assam Rifles personnel killed while fighting insurgency. This memorial is situated in:",
+            "options": [
+                {
+                    "text": "Dimapur"
+                },
+                {
+                    "text": "Wokha"
+                },
+                {
+                    "text": "Mokokchung",
+                    "correct": true
+                },
+                {
+                    "text": "Kohima"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Mahatma Gandhi's first major public appearance in India after returning from South Africa was at the opening of the ________ in February 1916.",
+            "options": [
+                {
+                    "text": "University of Madras"
+                },
+                {
+                    "text": "University of Calcutta"
+                },
+                {
+                    "text": "Banaras Hindu University",
+                    "correct": true
+                },
+                {
+                    "text": "University of Bombay"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "India's first human space mission \"Gaganyaan\" will be launched in which year?",
+            "options": [
+                {
+                    "text": "2022"
+                },
+                {
+                    "text": "2023",
+                    "correct": true
+                },
+                {
+                    "text": "2024"
+                },
+                {
+                    "text": "2025"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Which of the following elements is NOT a component of baking soda?",
+            "options": [
+                {
+                    "text": "Oxygen"
+                },
+                {
+                    "text": "Hydrogen"
+                },
+                {
+                    "text": "Calcium",
+                    "correct": true
+                },
+                {
+                    "text": "Sodium"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "In which year the post of National Security Advisor was created in India?",
+            "options": [
+                {
+                    "text": "2000"
+                },
+                {
+                    "text": "1998",
+                    "correct": true
+                },
+                {
+                    "text": "2003"
+                },
+                {
+                    "text": "1999"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "When is World Athletics Day celebrated annually?",
+            "options": [
+                {
+                    "text": "5 May"
+                },
+                {
+                    "text": "6 May"
+                },
+                {
+                    "text": "7 May",
+                    "correct": true
+                },
+                {
+                    "text": "8 May"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "The UN Framework Convention on Climate Change (UNFCCC) has announced which country to host the 28th Conference of the Parties (COP28) in 2023?",
+            "options": [
+                {
+                    "text": "UAE",
+                    "correct": true
+                },
+                {
+                    "text": "US"
+                },
+                {
+                    "text": "UK"
+                },
+                {
+                    "text": "Russia"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "The Amar Jawan Jyoti flame at India Gate was merged with the flame at the National War Memorial in New Delhi in January 2022. The Amar Jawan Jyoti was established in which year?",
+            "options": [
+                {
+                    "text": "1972",
+                    "correct": true
+                },
+                {
+                    "text": "1947"
+                },
+                {
+                    "text": "1931"
+                },
+                {
+                    "text": "1950"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "India successfully test-fired a new version of which supersonic cruise missile off the Odisha coast in January 2022?",
+            "options": [
+                {
+                    "text": "Dhanush"
+                },
+                {
+                    "text": "Brahmos",
+                    "correct": true
+                },
+                {
+                    "text": "Prithvi"
+                },
+                {
+                    "text": "Agni"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "In which city was the 9th edition of the North East Festival (NEF) inaugurated in January 2022?",
+            "options": [
+                {
+                    "text": "Shillong"
+                },
+                {
+                    "text": "Imphal"
+                },
+                {
+                    "text": "Guwahati",
+                    "correct": true
+                },
+                {
+                    "text": "Itanagar"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "In February 2022, which of the following has installed and commissioned Param Pravega, one of the most powerful supercomputers in the country?",
+            "options": [
+                {
+                    "text": "IIT Delhi"
+                },
+                {
+                    "text": "IIT Bombay"
+                },
+                {
+                    "text": "IISc Bangalore",
+                    "correct": true
+                },
+                {
+                    "text": "NIT Durgapur"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "India conducted a joint military exercise EX DHARMA GUARDIAN-2022 in Karnataka in February 2022 with which country?",
+            "options": [
+                {
+                    "text": "France"
+                },
+                {
+                    "text": "South Korea"
+                },
+                {
+                    "text": "Japan",
+                    "correct": true
+                },
+                {
+                    "text": "USA"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who among the following has been awarded the best actor award by Dadasaheb Phalke International Film Festival Awards 2022?",
+            "options": [
+                {
+                    "text": "Ranveer Singh",
+                    "correct": true
+                },
+                {
+                    "text": "Varun Dhawan"
+                },
+                {
+                    "text": "Rajkumar Rao"
+                },
+                {
+                    "text": "Dhanush"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who has launched the Jal Shakti Abhiyan: Catch the Rain campaign 2022 in New Delhi in March 2022?",
+            "options": [
+                {
+                    "text": "Gajendra Singh Shekhawat"
+                },
+                {
+                    "text": "Amit Shah"
+                },
+                {
+                    "text": "Ram Nath Kovind",
+                    "correct": true
+                },
+                {
+                    "text": "Anurag Thakur"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who among the followings has been appointed as the President of the Financial Action Task Force (FATF) in March 2022?",
+            "options": [
+                {
+                    "text": "Roger Wilkins"
+                },
+                {
+                    "text": "Santiago Otamendi"
+                },
+                {
+                    "text": "Juan Manuel Vega-Serrano"
+                },
+                {
+                    "text": "T Raja Kumar",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "What is the name of the Anti-Tank Guided Missile which was successfully launched by DRDO on 11 April 2022?",
+            "options": [
+                {
+                    "text": "Helina",
+                    "correct": true
+                },
+                {
+                    "text": "SANT Missile"
+                },
+                {
+                    "text": "Nag Missile"
+                },
+                {
+                    "text": "Amogha"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who inaugurated the 'SemiconIndia Conference 2022' to boost semiconductor production in India?",
+            "options": [
+                {
+                    "text": "President Ram Nath Kovind"
+                },
+                {
+                    "text": "Rajnath Singh"
+                },
+                {
+                    "text": "PM Narendra Modi",
+                    "correct": true
+                },
+                {
+                    "text": "Piyush Goyal"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who among the followings has been appointed as the Chairman of Tata Sons Board in April 2022?",
+            "options": [
+                {
+                    "text": "Saurabh Agrawal"
+                },
+                {
+                    "text": "N Chandrasekaran",
+                    "correct": true
+                },
+                {
+                    "text": "Banmali Agrawala"
+                },
+                {
+                    "text": "Rajesh Gopinathan"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "The world's longest suspension bridge named \"Sky Bridge 721\" has been opened for tourists in which country?",
+            "options": [
+                {
+                    "text": "Poland"
+                },
+                {
+                    "text": "France"
+                },
+                {
+                    "text": "Spain"
+                },
+                {
+                    "text": "Czech Republic",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Chaukhandi Stupa is a Buddhist monument located in which Indian state?",
+            "options": [
+                {
+                    "text": "Punjab"
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "correct": true
+                },
+                {
+                    "text": "Sikkim"
+                },
+                {
+                    "text": "West Bengal"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "What is the rank of India in Tokyo Olympics, 2021?",
+            "options": [
+                {
+                    "text": "48th",
+                    "correct": true
+                },
+                {
+                    "text": "25th"
+                },
+                {
+                    "text": "10th"
+                },
+                {
+                    "text": "40th"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following has announced the launch of a revamped Ayushman Bharat Health Account (ABHA) mobile app?",
+            "options": [
+                {
+                    "text": "National Health Authority",
+                    "correct": true
+                },
+                {
+                    "text": "Indian Institute of Health Management Research"
+                },
+                {
+                    "text": "Indian Red Cross Society"
+                },
+                {
+                    "text": "Public Health Foundation of India"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who was the first chief minister of Andhra Pradesh who belong to Telangana region?",
+            "options": [
+                {
+                    "text": "P V Narsimha Rao",
+                    "correct": true
+                },
+                {
+                    "text": "N. Chandrababu Naidu"
+                },
+                {
+                    "text": "Y. S. Rajasekhara Reddy"
+                },
+                {
+                    "text": "Konijeti Rosaiah"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following power station is NOT situated in Andhra Pradesh state?",
+            "options": [
+                {
+                    "text": "Simhadri Super Thermal Power Plant"
+                },
+                {
+                    "text": "Sanjay Gandhi Thermal Power Station",
+                    "correct": true
+                },
+                {
+                    "text": "Rayalaseema Thermal Power Station"
+                },
+                {
+                    "text": "Dr. Narla Tata Rao Thermal Power Plant"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Which district is called 'The Rice Bowl' of Andhra Pradesh?",
+            "options": [
+                {
+                    "text": "Chittoor"
+                },
+                {
+                    "text": "Kurnool"
+                },
+                {
+                    "text": "Srikakulam"
+                },
+                {
+                    "text": "East Godavari",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which of the following is a form of dance narration Jangam Katha from Andhra Pradesh?",
+            "options": [
+                {
+                    "text": "Burrakatha",
+                    "correct": true
+                },
+                {
+                    "text": "Butta Bommalu"
+                },
+                {
+                    "text": "Kaikottikali"
+                },
+                {
+                    "text": "Padayani"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which government scheme of Andhra Pradesh is providing incentives to SC/ST industrialist to promote entrepreneurship?",
+            "options": [
+                {
+                    "text": "YSR Cheyutha"
+                },
+                {
+                    "text": "YSR Badugu Vikasam",
+                    "correct": true
+                },
+                {
+                    "text": "YSR Navodayam Scheme"
+                },
+                {
+                    "text": "Jagananna Palavelluva"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Who has been appointed as the brand endorser of Coca-Cola India\u2019s soft-drink brand Thums Up, in February 2022?",
+            "options": [
+                {
+                    "text": "Shahrukh Khan",
+                    "correct": true
+                },
+                {
+                    "text": "Hrithik Roshan"
+                },
+                {
+                    "text": "Salman Khan"
+                },
+                {
+                    "text": "Akshay Kumar"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following country's scientists have achieved a new milestone in producing nuclear fusion energy in February 2022?",
+            "options": [
+                {
+                    "text": "United Kingdom",
+                    "correct": true
+                },
+                {
+                    "text": "Canada"
+                },
+                {
+                    "text": "Germany"
+                },
+                {
+                    "text": "China"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Which of the following is incorrectly matched?",
+            "options": [
+                {
+                    "text": "Banking : Union list"
+                },
+                {
+                    "text": "Land : State list"
+                },
+                {
+                    "text": "Forest : Concurrent list"
+                },
+                {
+                    "text": "Education : State list",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which state has won the 12th Hockey India Junior Men National Championship in May 2022?",
+            "options": [
+                {
+                    "text": "Uttar Pradesh",
+                    "correct": true
+                },
+                {
+                    "text": "Odisha"
+                },
+                {
+                    "text": "Haryana"
+                },
+                {
+                    "text": "Kerala"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who has been declared the winner of the Miss India Worldwide 2022?",
+            "options": [
+                {
+                    "text": "Rashi Chandel"
+                },
+                {
+                    "text": "Nirmal Kaur"
+                },
+                {
+                    "text": "Anjali Singh"
+                },
+                {
+                    "text": "Khushi Patel",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which company has launched the India\u2019s first rupee-based Crypto Rupee Index (CRE8)?",
+            "options": [
+                {
+                    "text": "Coinbase"
+                },
+                {
+                    "text": "BitMain"
+                },
+                {
+                    "text": "BitGo"
+                },
+                {
+                    "text": "CoinSwitch",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Who has taken over as President of Financial Action Task Force (FATF), the world's anti-terrorism financing agency?",
+            "options": [
+                {
+                    "text": "T Raja Kumar",
+                    "correct": true
+                },
+                {
+                    "text": "P Udayakumar"
+                },
+                {
+                    "text": "Venkat Nageswar Chalasani"
+                },
+                {
+                    "text": "Vijay Shekhar Sharma"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "What is the rank of India in the Global Gender Gap Index 2022?",
+            "options": [
+                {
+                    "text": "131"
+                },
+                {
+                    "text": "127"
+                },
+                {
+                    "text": "121"
+                },
+                {
+                    "text": "135",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which state has become the first state in the country to initiate the process of implementing the Centre\u2019s New Education Policy (NEP)?",
+            "options": [
+                {
+                    "text": "Punjab"
+                },
+                {
+                    "text": "Haryana"
+                },
+                {
                     "text": "Goa"
                 },
                 {
-                    "text": "Maharastra"
-                },
-                {
-                    "text": "Gujarat"
-                },
-                {
-                    "text": "Kerala",
+                    "text": "Uttarakhand",
                     "correct": true
                 }
             ],
-            "explanation": ""
-       }  
+            "explanation": 3
+        },
+        {
+            "questionText": "PM Narendra Modi unveiled the National Emblem cast, weighing ________ kilograms, on the roof of the new parliament building.",
+            "options": [
+                {
+                    "text": "8000"
+                },
+                {
+                    "text": "8500"
+                },
+                {
+                    "text": "9000"
+                },
+                {
+                    "text": "9500",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "___________ has launched its biggest digital initiative for exams - 'PARIKSHA SANGAM' in July 2022.",
+            "options": [
+                {
+                    "text": "University Grants Commission"
+                },
+                {
+                    "text": "National Council for Teacher Education (NCTE)"
+                },
+                {
+                    "text": "National Council Of Educational Research And Training(NCERT)"
+                },
+                {
+                    "text": "Central Board of Secondary Education (CBSE)",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which company has inked a long-term principal sponsorship deal with the Indian Olympic Association (IOA) in July 2022?",
+            "options": [
+                {
+                    "text": "IMG-Reliance"
+                },
+                {
+                    "text": "JSW Sports"
+                },
+                {
+                    "text": "Gameplan Sports Pvt Ltd"
+                },
+                {
+                    "text": "Adani Sportsline",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "The Department of Food and Public Distribution will organize a National Conference on Food and Nutrition Security in India in July 2022 in ________.",
+            "options": [
+                {
+                    "text": "New Delhi",
+                    "correct": true
+                },
+                {
+                    "text": "Pune"
+                },
+                {
+                    "text": "Hyderabad"
+                },
+                {
+                    "text": "Kolkata"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "In July 2022, who smashed the most number of runs in an over in a Test cricket match?",
+            "options": [
+                {
+                    "text": "Mohammed Shami"
+                },
+                {
+                    "text": "Hardik Pandya"
+                },
+                {
+                    "text": "Bhuvneshwar Kumar"
+                },
+                {
+                    "text": "Jasprit Bumrah",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "What is the rank of Indian passport in the Henley Passport Index 2022?",
+            "options": [
+                {
+                    "text": "\u200b77th Rank"
+                },
+                {
+                    "text": "\u200b107th Rank"
+                },
+                {
+                    "text": "\u200b85th Rank"
+                },
+                {
+                    "text": "87th Rank",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Which Electricity Company has developed 'EV Mitra' mobile app to provide information about EV charging stations?",
+            "options": [
+                {
+                    "text": "Siemens India Ltd"
+                },
+                {
+                    "text": "Bharat Heavy Electrical Ltd"
+                },
+                {
+                    "text": "Exide Industries Ltd"
+                },
+                {
+                    "text": "Bengaluru Electricity Company (BESCOM)",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "On what ground, Lord Dalhousie annexed the State of Oudh in 1856 ?",
+            "options": [
+                {
+                    "text": "Doctrine of Lapse",
+                    "correct": true
+                },
+                {
+                    "text": "Subsidiary Alliance"
+                },
+                {
+                    "text": "Financial Reasons"
+                },
+                {
+                    "text": "Maladministration"
+                }
+            ],
+            "explanation": 0
+        },
+        {
+            "questionText": "Who stopped the practice of Sati in India?",
+            "options": [
+                {
+                    "text": "Lord Warren Hastings"
+                },
+                {
+                    "text": "Lord Curzon"
+                },
+                {
+                    "text": "Lord William Bentinck",
+                    "correct": true
+                },
+                {
+                    "text": "Lord Canning"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "Who was appointed as the first governor and viceroy of the Portuguese State of India?",
+            "options": [
+                {
+                    "text": "Tristao da Cunha"
+                },
+                {
+                    "text": "Afonso de Albuquerque"
+                },
+                {
+                    "text": "Manuel Antonio Vassalo e Silva"
+                },
+                {
+                    "text": "Francisco de Almeida",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "The first Governor General of Bengal was:",
+            "options": [
+                {
+                    "text": "Lord Cornwallis"
+                },
+                {
+                    "text": "Lord Clive"
+                },
+                {
+                    "text": "Lord Wellesley"
+                },
+                {
+                    "text": "Warren Hastings",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "When was the Arms Act passed by Lord Litton?",
+            "options": [
+                {
+                    "text": "In 1880"
+                },
+                {
+                    "text": "In 1878",
+                    "correct": true
+                },
+                {
+                    "text": "In 1879"
+                },
+                {
+                    "text": "In 1881"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Which British Governor fought against the Nawab of Bengal during the Battle of Plassey?",
+            "options": [
+                {
+                    "text": "Warren Hastings"
+                },
+                {
+                    "text": "Lord Cornwallis"
+                },
+                {
+                    "text": "Lord Dalhousie"
+                },
+                {
+                    "text": "Robert Clive",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Name the British Governor General who introduced railways in India:",
+            "options": [
+                {
+                    "text": "Lord Auckland"
+                },
+                {
+                    "text": "Sir Charles Metcalfe"
+                },
+                {
+                    "text": "Lord Hastings"
+                },
+                {
+                    "text": "Lord Dalhousie",
+                    "correct": true
+                }
+            ],
+            "explanation": 3
+        },
+        {
+            "questionText": "Who was the Viceroy of India at the times of the Dandi March initiated by Gandhiji?",
+            "options": [
+                {
+                    "text": "Lord Willingdon"
+                },
+                {
+                    "text": "Lord Reading"
+                },
+                {
+                    "text": "Lord Irwin",
+                    "correct": true
+                },
+                {
+                    "text": "Lord Linlithgow"
+                }
+            ],
+            "explanation": 2
+        },
+        {
+            "questionText": "The Indian Education Commission of 1882 was appointed by:",
+            "options": [
+                {
+                    "text": "Lord Lytton"
+                },
+                {
+                    "text": "Lord Ripon",
+                    "correct": true
+                },
+                {
+                    "text": "Lord Dufferin"
+                },
+                {
+                    "text": "Lord Mayo"
+                }
+            ],
+            "explanation": 1
+        },
+        {
+            "questionText": "Which among the following was established by the Andhra Pradesh state government to provide scientific knowledge to the public in 1963?",
+            "options": [
+                {
+                    "text": "AP academy of Science",
+                    "correct": true
+                },
+                {
+                    "text": "Telugu academy"
+                },
+                {
+                    "text": "Official language board"
+                },
+                {
+                    "text": "Urdu academy"
+                }
+            ],
+            "explanation": 0
+        }
     ]
 }
-
-
